@@ -2,6 +2,10 @@
 
 这是一个免费的兼容 OpenAI API 格式的大模型接口服务。
 
+## 使用教程
+
+- [视频教程（B 站）](https://www.bilibili.com/video/BV1XHw2zrEzY)
+
 ## 接口信息
 
 | 配置项 | 值 |
