@@ -26,8 +26,8 @@ Free API is a public, no-cost API service compatible with the OpenAI API format.
 | Model | Model ID | Description |
 |------|---------|------|
 | GPT | gpt-5.4 | Recommended for chat, vision, and tool use |
-| Claude | claude-sonnet-4.6 | new,test |
 | Grok | grok-4.1-fast | Best suited for image generation, with fewer conversation restrictions |
+| Claude | claude-sonnet-4.6 | new,test |
 | Qwen | qwen3.5-flash | Tongyi Qianwen |
 | GLM | z-ai/glm5 | Zhipu GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
@@ -36,7 +36,7 @@ Free API is a public, no-cost API service compatible with the OpenAI API format.
 
 > Update: `gpt-5.4` and `gpt-5.3-codex` are available again and can be used directly.
 
-> Note: `Claude` `Grok` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
+> Note: `Grok` `Claude` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.
 
 ## Supported Endpoints
 

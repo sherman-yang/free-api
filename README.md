@@ -27,8 +27,8 @@
 | 模型名 | 模型ID示例 | 说明 |
 |------|---------|------|
 | GPT | gpt-5.4 | 对话、识图、工具，推荐使用 |
-| Claude | claude-sonnet-4.6 | 新增，测试 |
 | Grok | grok-4.1-fast | 生图首选，对话内容限制较少 |
+| Claude | claude-sonnet-4.6 | 新增，测试 |
 | Qwen | qwen3.5-flash | 通义千问 |
 | GLM | z-ai/glm5 | 智谱 GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
@@ -37,7 +37,7 @@
 
 > 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已重新上线，可直接使用。
 
-> 注意：该服务的 `Claude` `Grok` 和 `Qwen` 不支持工具调用，强行调用时返回结果可能异常。
+> 注意：该服务的 `Grok` `Claude` 和 `Qwen` 不支持工具调用，强行调用时返回结果可能异常。
 
 ## 支持的端点
 
