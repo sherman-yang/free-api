@@ -17,7 +17,7 @@
 | 配置项 | 值 |
 |--------|-----|
 | API 地址 | `https://openai.good.hidns.vip/v1` |
-| API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
+| API Key | `https://github.com/smanx/free-api` |
 
 > 该 Key 为公开共享用途，请勿用于生产环境中的强依赖场景。
 

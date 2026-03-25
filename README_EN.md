@@ -16,7 +16,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 | Item | Value |
 |------|-------|
 | Base URL | `https://openai.good.hidns.vip/v1` |
-| API Key | `sk-B882bCwUweSeMRscoNwxZw4vxpjXmvWTLBxO5aXC7WAYhfwa` |
+| API Key | `https://github.com/smanx/free-api` |
 
 > This API key is publicly shared. Do not rely on it for production workloads or other critical use cases.
 
