@@ -26,10 +26,10 @@
 
 | 模型名 | 模型ID示例 | 说明 |
 |------|---------|------|
-| GPT | gpt-5.4 | 对话、识图、工具，推荐使用 |
+| ~~GPT~~ | ~~gpt-5.4~~ | ~~对话、识图、工具，推荐使用~~ |
 | Grok | grok-4.1-fast | ~~生图首选~~，对话内容限制较少 |
 | ~~Claude~~ | ~~anthropic/claude-sonnet-4.6~~ | ~~Claude Code~~ |
-| Qwen | qwen3.5-flash | 生图，视频识别 |
+| Qwen | qwen3.6-plus | 生图，视频识别 |
 | GLM | z-ai/glm5 | 智谱 GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
 | MiniMax | minimaxai/minimax-m2.5 | MiniMax |
