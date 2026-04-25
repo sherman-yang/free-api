@@ -31,7 +31,7 @@ Free API is a public, no-cost API service compatible with both OpenAI API and An
 | Qwen | qwen3.6-plus | Image generation, video recognition |
 | GLM | z-ai/glm5.1 | Zhipu GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
-| MiniMax | minimaxai/minimax-m2.5 | MiniMax |
+| MiniMax | minimaxai/minimax-m2.7 | MiniMax |
 | DeepSeek | deepseek-ai/deepseek-v4-flash | DeepSeek |
 
 > Note: `Grok` and `Qwen` do not support tool calling. Attempting to use tools with them may produce unreliable results.

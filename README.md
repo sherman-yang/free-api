@@ -32,7 +32,7 @@
 | Qwen | qwen3.6-plus | 生图，视频识别 |
 | GLM | z-ai/glm5.1 | 智谱 GLM |
 | Kimi | moonshotai/kimi-k2.5 | Kimi |
-| MiniMax | minimaxai/minimax-m2.5 | MiniMax |
+| MiniMax | minimaxai/minimax-m2.7 | MiniMax |
 | DeepSeek | deepseek-ai/deepseek-v4-flash | DeepSeek |
 
 
